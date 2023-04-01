@@ -11,7 +11,7 @@ Benefits of Swift UI:
 App 1: Swift UI App:
 - 
 
-App 2: I Am Rich App:
+App 2: I Am Rich SwiftUI App:
 - How to start your first SwiftUI Project.
 - Work with Xcode preview and the object library to generate SwiftUI code.
 - Learn to use SwiftUI modifiers to set properties for components.
@@ -24,3 +24,10 @@ App 3: Nadir Card App:
 - Learn how to work with RGB Colors and HEX codes.
 - Learn to use SF Symbols in SwiftUI.
 - Learn how to extract Subviews to create reusable SwiftUI components.
+
+App 4: Dicee SwiftUI App:
+- Create an app with functionality.
+- More practice creating layouts.
+- Work with spacers and padding.
+- Create Subviews with properties that can change.
+- Learn about how SwiftUI manages State.
