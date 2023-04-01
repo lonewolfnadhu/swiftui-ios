@@ -9,22 +9,21 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack{
-            VStack {
-                BookView(title: "A Tale of Two Cities", author: "Charles Dickens")
-                BookView(title: "Exhalation", author: "Ted Chiang")
-                BookView(title: "Sum", author: "David Eagleman")
+        ScrollView{
+            VStack{
+                Text("Hello World!")
+                TextField("Placeholder", text: .constant(""))
+                Stepper(value: .constant(4), in: 1...10) {
+                    Text("Stepper")
+                }
             }
-            List {
-                BookView(title: "A Tale of Two Cities", author: "Charles Dickens")
-                BookView(title: "Exhalation", author: "Ted Chiang")
-                BookView(title: "Sum", author: "David Eagleman")
+            Picker(selection: .constant(1), label: Text("Picker")) {
+                Text("1").tag(1)
+                Text("2").tag(2)
             }
-            Form {
-                BookView(title: "A Tale of Two Cities", author: "Charles Dickens")
-                BookView(title: "Exhalation", author: "Ted Chiang")
-                BookView(title: "Sum", author: "David Eagleman")
-            }
+            BookView(title: "A Tale of Two Cities", author: "Charles Dickens")
+            BookView(title: "Exhalation", author: "Ted Chiang")
+            BookView(title: "Sum", author: "David Eagleman")
         }
     }
 }
