@@ -31,3 +31,9 @@ App 4: Dicee SwiftUI App:
 - Work with spacers and padding.
 - Create Subviews with properties that can change.
 - Learn about how SwiftUI manages State.
+
+App 5: H4XOR App:
+- Learn to work with SwiftUI Lists and the Identifiable Protocol.
+- Use a Navigation View to navigate between the List and a details View.
+- Advanced State Management using the Observer Design Pattern.
+- Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your app.
