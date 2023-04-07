@@ -1,4 +1,5 @@
-# swiftui-ios
+# Swift UI
+
 This is a modest project that aided me in enhancing my comprehension of Swift UI on the iOS platform.
 
 
