@@ -1,5 +1,5 @@
 # swiftui-ios
-A small project that helps me better understand Swift UI in iOS.
+This is a modest project that aided me in enhancing my comprehension of Swift UI on the iOS platform.
 
 
 Benefits of Swift UI:
