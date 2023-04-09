@@ -10,8 +10,8 @@ This is a modest project that aided me in enhancing my comprehension of Swift UI
 4. Cross apple platform (single code base for all apple projects like iphone, ipad and so on.)
 5. Mac Catalyst (The app build for iphone or ipad can be run directly into MacOS)
 
-### App 1: Swift UI App:
-- 
+### App 1: SwiftUI Basics App:
+- Basic designs in SwiftUI App Design
 -
 -
 
