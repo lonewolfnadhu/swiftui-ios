@@ -15,8 +15,8 @@ struct ContentView: View {
                 .edgesIgnoringSafeArea(.all)
             
             VStack {
-                TextSwiftUI()
-
+                AboutSwiftUI()
+                
                 TextSwiftUI()
             }
         }

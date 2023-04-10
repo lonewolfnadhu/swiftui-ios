@@ -12,6 +12,8 @@
 		A832E0E029DB574400ADDB88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A832E0DF29DB574400ADDB88 /* Assets.xcassets */; };
 		A832E0E329DB574400ADDB88 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A832E0E229DB574400ADDB88 /* Preview Assets.xcassets */; };
 		A8F3BC2429E49D220026DA5A /* TextSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F3BC2329E49D220026DA5A /* TextSwiftUI.swift */; };
+		A8F3BC2629E4A2180026DA5A /* AboutSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F3BC2529E4A2180026DA5A /* AboutSwiftUI.swift */; };
+		A8F3BC2829E4A4630026DA5A /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F3BC2729E4A4630026DA5A /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		A832E0DF29DB574400ADDB88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A832E0E229DB574400ADDB88 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A8F3BC2329E49D220026DA5A /* TextSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSwiftUI.swift; sourceTree = "<group>"; };
+		A8F3BC2529E4A2180026DA5A /* AboutSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutSwiftUI.swift; sourceTree = "<group>"; };
+		A8F3BC2729E4A4630026DA5A /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				A8F3BC2329E49D220026DA5A /* TextSwiftUI.swift */,
 				A832E0DF29DB574400ADDB88 /* Assets.xcassets */,
 				A832E0E129DB574400ADDB88 /* Preview Content */,
+				A8F3BC2529E4A2180026DA5A /* AboutSwiftUI.swift */,
+				A8F3BC2729E4A4630026DA5A /* DetailView.swift */,
 			);
 			path = "SwiftUI Basics";
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 				A832E0DE29DB573F00ADDB88 /* ContentView.swift in Sources */,
 				A8F3BC2429E49D220026DA5A /* TextSwiftUI.swift in Sources */,
 				A832E0DC29DB573F00ADDB88 /* SwiftUI_BasicsApp.swift in Sources */,
+				A8F3BC2829E4A4630026DA5A /* DetailView.swift in Sources */,
+				A8F3BC2629E4A2180026DA5A /* AboutSwiftUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
