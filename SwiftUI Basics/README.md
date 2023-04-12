@@ -15,6 +15,12 @@ Delete below contents:
 //
 //  Created by Nadir Shah on 10/04/2023.
 //
+//
+//  AboutSwiftUI.swift
+//  SwiftUI Basics
+//
+//  Created by Nadir Shah on 10/04/2023.
+//
 
 import SwiftUI
 
@@ -47,8 +53,3 @@ struct AboutSwiftUI_Previews: PreviewProvider {
         AboutSwiftUI()
     }
 }
-
-
-
-#About SwiftUI
-#Text SwiftUI
