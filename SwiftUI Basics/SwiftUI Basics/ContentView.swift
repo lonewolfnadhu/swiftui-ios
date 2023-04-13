@@ -19,7 +19,7 @@ struct ContentView: View {
                 
                 TextSwiftUI()
             }
-        }
+        }.padding(.all)
     }
 }
 
