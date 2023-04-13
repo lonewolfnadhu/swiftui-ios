@@ -59,10 +59,10 @@
 			children = (
 				A832E0DB29DB573F00ADDB88 /* SwiftUI_BasicsApp.swift */,
 				A832E0DD29DB573F00ADDB88 /* ContentView.swift */,
+				A8F3BC2529E4A2180026DA5A /* AboutSwiftUI.swift */,
 				A8F3BC2329E49D220026DA5A /* TextSwiftUI.swift */,
 				A832E0DF29DB574400ADDB88 /* Assets.xcassets */,
 				A832E0E129DB574400ADDB88 /* Preview Content */,
-				A8F3BC2529E4A2180026DA5A /* AboutSwiftUI.swift */,
 				A8F3BC2729E4A4630026DA5A /* DetailView.swift */,
 			);
 			path = "SwiftUI Basics";
