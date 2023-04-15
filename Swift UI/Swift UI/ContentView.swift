@@ -11,9 +11,14 @@ import SwiftUI
 //MARK: Basic view structure
 struct ContentView: View {
     var body: some View {
-        VStack {
-            TextSwiftUI()
-        }
+        ZStack {
+            Color(red: 0.78, green: 0.93, blue: 0.93)
+                .edgesIgnoringSafeArea(.all)
+            
+            VStack {
+                TextSwiftUI()
+            }
+        }.padding(.all)
     }
 }
 
