@@ -13,6 +13,8 @@ struct TextSwiftUI: View {
             // MARK: Text
             Text("Welcome")
                 .font(.title)
+            
+            Divider()
 
             // MARK: Add some styles to the text
             Text("Welcome! I am Nadhu and I am developer. Also, loves to code!")
