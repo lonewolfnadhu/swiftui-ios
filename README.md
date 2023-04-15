@@ -1,43 +1,19 @@
 # Swift UI
 
-This is a modest project that aided me in enhancing my comprehension of Swift UI on the iOS platform.
+SwiftUI is a modern declarative user interface framework for building iOS, iPadOS, watchOS and tvOS apps using the Swift programming language.
 
+It provides a simple and intuitive way to create user interface with a live preview, enabling developers to see their changes in real-time.
 
-### Benefits of Swift UI:
-1. Drag and drop to create code
-2. Easy layouts VHZ Stack (Vertical, Horizontal, and Z-axis Stack)
-3. Highly reusable UI
-4. Cross apple platform (single code base for all apple projects like iphone, ipad and so on.)
-5. Mac Catalyst (The app build for iphone or ipad can be run directly into MacOS)
+SwiftUI also offers a range of built-in user interface controls and supports dynamic type, and dark mode out of the box.
 
-### App 1: SwiftUI Basics App:
-- Basic designs in SwiftUI App Design
--
--
+SwiftUI is a modern declarative user interface framework for building iOS, iPadOS, watchOS and tvOS apps using the Swift programming language.
 
-### App 2: I Am Rich SwiftUI App:
-- How to start your first SwiftUI Project.
-- Work with Xcode preview and the object library to generate SwiftUI code.
-- Learn to use SwiftUI modifiers to set properties for components.
-- Learn how to arrange elements using SwiftUI Stacks.
-- Learn how to add and size Image components.
+It provides a simple and intuitive way to create user interface with a live preview, enabling developers to see their changes in real-time.
 
-### App 3: Nadir Card App:
-- Learn how to arrange elements to create complex layouts.
-- Learn to add custom fonts to your project.
-- Learn how to work with RGB Colors and HEX codes.
-- Learn to use SF Symbols in SwiftUI.
-- Learn how to extract Subviews to create reusable SwiftUI components.
+SwiftUI also offers a range of built-in user interface controls and supports dynamic type, and dark mode out of the box.
 
-### App 4: Dicee SwiftUI App:
-- Create an app with functionality.
-- More practice creating layouts.
-- Work with spacers and padding.
-- Create Subviews with properties that can change.
-- Learn about how SwiftUI manages State.
+SwiftUI is a modern declarative user interface framework for building iOS, iPadOS, watchOS and tvOS apps using the Swift programming language.
 
-### App 5: H4XOR App:
-- Learn to work with SwiftUI Lists and the Identifiable Protocol.
-- Use a Navigation View to navigate between the List and a details View.
-- Advanced State Management using the Observer Design Pattern.
-- Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your app.
+It provides a simple and intuitive way to create user interface with a live preview, enabling developers to see their changes in real-time.
+
+SwiftUI also offers a range of built-in user interface controls and supports dynamic type, and dark mode out of the box.
