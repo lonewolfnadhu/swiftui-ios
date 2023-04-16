@@ -28,11 +28,12 @@ struct TextSwiftUI: View {
                         .foregroundColor(.white)
                 }
                 
-                Text("Welcome! I am Nadir Shah!")
+                Text("Welcome! I am Nadir Shah and I am a Developer!")
                     .font(.title)
-                    .lineLimit(.max)
+                    .lineLimit(2)
                     .foregroundColor(.white)
                     .padding(.horizontal)
+                    .multilineTextAlignment(.center)
                 
                 Text("Solutions-focused and tech-savvy software engineer with over five years of experience in Mobile App Development. I have successfully overseen multiple highly scalable mobile development projects from start to finish, while adhering to the agreed budget and timeline. My areas of expertise include iOS, Flutter, Android, and React-Native app development.")
                     .font(.title3)
@@ -43,15 +44,14 @@ struct TextSwiftUI: View {
                 Spacer()
                 
                 HStack {
-                    Label("SwiftUI in a Nutshell", systemImage: "water.waves")
+                    Label("Connect with me", systemImage: "phone.connection.fill")
                         .foregroundColor(.white)
                     
-                    Link("Click here!", destination: URL(string: "https://www.apple.com")!)
+                    Link("Click here!", destination: URL(string: "https://www.linkedin.com/in/lonewolfnadhu/")!)
                         .foregroundColor(.blue)
                 }
             }
         }
-        
     }
 }
 
