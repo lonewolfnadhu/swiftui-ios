@@ -16,6 +16,7 @@
 		A8E24C3F29EC58990061A1C0 /* ShapeSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */; };
 		A8E24C4129EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E24C4029EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift */; };
 		A8E24C4329EC5F670061A1C0 /* ImageSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E24C4229EC5F660061A1C0 /* ImageSwiftUI.swift */; };
+		A8E24C4729EC67730061A1C0 /* TextFieldSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E24C4629EC67730061A1C0 /* TextFieldSwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeSwiftUI.swift; sourceTree = "<group>"; };
 		A8E24C4029EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleButtonSwiftUI.swift; sourceTree = "<group>"; };
 		A8E24C4229EC5F660061A1C0 /* ImageSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSwiftUI.swift; sourceTree = "<group>"; };
+		A8E24C4629EC67730061A1C0 /* TextFieldSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldSwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				A8D19CF829EC4BAF00473ACE /* TextSwiftUI.swift */,
+				A8E24C4629EC67730061A1C0 /* TextFieldSwiftUI.swift */,
 				A8E24C4229EC5F660061A1C0 /* ImageSwiftUI.swift */,
 				A8E24C4029EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift */,
 				A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */,
@@ -173,6 +176,7 @@
 				A8E24C4329EC5F670061A1C0 /* ImageSwiftUI.swift in Sources */,
 				A8D19CF729EC4B7900473ACE /* IAmRich.swift in Sources */,
 				A8E24C3F29EC58990061A1C0 /* ShapeSwiftUI.swift in Sources */,
+				A8E24C4729EC67730061A1C0 /* TextFieldSwiftUI.swift in Sources */,
 				A8D19CE929EC4AF100473ACE /* Swift_UIApp.swift in Sources */,
 				A8E24C4129EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift in Sources */,
 			);
@@ -311,12 +315,13 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lonewolfnadhu.Swift-UI";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lonewolfnadhu.SwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -340,12 +345,13 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lonewolfnadhu.Swift-UI";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lonewolfnadhu.SwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

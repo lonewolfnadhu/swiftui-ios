@@ -20,64 +20,76 @@ struct ContentView: View {
                 
                 Divider()
                 
-                Text("Projects")
-                    .font(.title2).bold()
-                    .foregroundColor(.green)
-                
-                NavigationLink(destination: IAmRich()) {
-                    Text("I am Rich")
-                        .frame(minWidth: 0, maxWidth: 250)
-                        .padding()
-                        .foregroundColor(.white)
-                        .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
-                        .cornerRadius(40)
-                        .font(.title3)
-                }
-                
-                Divider()
-                
-                Text("Extras")
-                    .font(.title2).bold()
-                    .foregroundColor(.green)
-                
-                NavigationLink(destination: TextSwiftUI()) {
-                    Text("Text (SwiftUI)")
-                        .frame(minWidth: 0, maxWidth: 250)
-                        .padding()
-                        .foregroundColor(.white)
-                        .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
-                        .cornerRadius(40)
-                        .font(.title3)
-                }
-                
-                NavigationLink(destination: ImageSwiftUI()) {
-                    Text("Image (SwiftUI)")
-                        .frame(minWidth: 0, maxWidth: 250)
-                        .padding()
-                        .foregroundColor(.white)
-                        .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
-                        .cornerRadius(40)
-                        .font(.title3)
-                }
-                
-                NavigationLink(destination: ToggleButtonSwiftUI()) {
-                    Text("Toggle, Button (SwiftUI)")
-                        .frame(minWidth: 0, maxWidth: 250)
-                        .padding()
-                        .foregroundColor(.white)
-                        .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
-                        .cornerRadius(40)
-                        .font(.title3)
-                }
-                
-                NavigationLink(destination: ShapeSwiftUI()) {
-                    Text("Shape (SwiftUI)")
-                        .frame(minWidth: 0, maxWidth: 250)
-                        .padding()
-                        .foregroundColor(.white)
-                        .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
-                        .cornerRadius(40)
-                        .font(.title3)
+                ScrollView{
+                    Text("Projects")
+                        .font(.title2).bold()
+                        .foregroundColor(.green)
+                    
+                    NavigationLink(destination: IAmRich()) {
+                        Text("I am Rich")
+                            .frame(minWidth: 0, maxWidth: 250)
+                            .padding()
+                            .foregroundColor(.white)
+                            .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                            .cornerRadius(40)
+                            .font(.title3)
+                    }
+                    
+                    Divider()
+                    
+                    Text("Extras")
+                        .font(.title2).bold()
+                        .foregroundColor(.green)
+                    
+                    NavigationLink(destination: TextSwiftUI()) {
+                        Text("Text (SwiftUI)")
+                            .frame(minWidth: 0, maxWidth: 250)
+                            .padding()
+                            .foregroundColor(.white)
+                            .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                            .cornerRadius(40)
+                            .font(.title3)
+                    }
+                    
+                    NavigationLink(destination: TextFieldSwiftUI()) {
+                        Text("Text Field (SwiftUI)")
+                            .frame(minWidth: 0, maxWidth: 250)
+                            .padding()
+                            .foregroundColor(.white)
+                            .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                            .cornerRadius(40)
+                            .font(.title3)
+                    }
+                    
+                    NavigationLink(destination: ImageSwiftUI()) {
+                        Text("Image (SwiftUI)")
+                            .frame(minWidth: 0, maxWidth: 250)
+                            .padding()
+                            .foregroundColor(.white)
+                            .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                            .cornerRadius(40)
+                            .font(.title3)
+                    }
+                    
+                    NavigationLink(destination: ToggleButtonSwiftUI()) {
+                        Text("Toggle, Button (SwiftUI)")
+                            .frame(minWidth: 0, maxWidth: 250)
+                            .padding()
+                            .foregroundColor(.white)
+                            .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                            .cornerRadius(40)
+                            .font(.title3)
+                    }
+                    
+                    NavigationLink(destination: ShapeSwiftUI()) {
+                        Text("Shape (SwiftUI)")
+                            .frame(minWidth: 0, maxWidth: 250)
+                            .padding()
+                            .foregroundColor(.white)
+                            .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                            .cornerRadius(40)
+                            .font(.title3)
+                    }
                 }
             }
         }

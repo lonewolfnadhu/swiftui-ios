@@ -16,7 +16,7 @@ struct TextSwiftUI: View {
             VStack {
                 Label("Text (SwiftUI)", systemImage: "text.book.closed")
                     .font(.largeTitle).bold()
-                    .foregroundColor(Color.white)
+                    .foregroundColor(.white)
                 
                 Divider()
                 

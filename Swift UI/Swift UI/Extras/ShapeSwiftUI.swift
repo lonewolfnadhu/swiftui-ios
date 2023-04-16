@@ -16,7 +16,7 @@ struct ShapeSwiftUI: View {
             VStack {
                 Label("Shape (SwiftUI)", systemImage: "square.on.square.squareshape.controlhandles")
                     .font(.largeTitle).bold()
-                    .foregroundColor(Color.white)
+                    .foregroundColor(.white)
                 
                 Divider()
                 

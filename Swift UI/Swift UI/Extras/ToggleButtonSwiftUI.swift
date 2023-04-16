@@ -19,7 +19,7 @@ struct ToggleButtonSwiftUI: View {
             VStack {
                 Text("Toggle, Button (SwiftUI)")
                     .font(.largeTitle).bold()
-                    .foregroundColor(Color.white)
+                    .foregroundColor(.white)
                 
                 Divider()
                 
