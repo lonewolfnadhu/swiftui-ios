@@ -60,8 +60,8 @@ struct ContentView: View {
                         .font(.title3)
                 }
                 
-                NavigationLink(destination: ShapeSwiftUI()) {
-                    Text("Shape (SwiftUI)")
+                NavigationLink(destination: ToggleButtonSwiftUI()) {
+                    Text("Toggle, Button (SwiftUI)")
                         .frame(minWidth: 0, maxWidth: 250)
                         .padding()
                         .foregroundColor(.white)
@@ -70,8 +70,8 @@ struct ContentView: View {
                         .font(.title3)
                 }
                 
-                NavigationLink(destination: ToggleButtonSwiftUI()) {
-                    Text("Toggle, Button (SwiftUI)")
+                NavigationLink(destination: ShapeSwiftUI()) {
+                    Text("Shape (SwiftUI)")
                         .frame(minWidth: 0, maxWidth: 250)
                         .padding()
                         .foregroundColor(.white)

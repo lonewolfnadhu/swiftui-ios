@@ -20,30 +20,25 @@ struct ImageSwiftUI: View {
                 
                 Spacer()
                 
-                HStack {
-                    Image(systemName: "moon")
-                        .foregroundColor(.white)
-                    
-                    Image(systemName: "moon")
-                        .foregroundColor(.white)
-                        .font(.largeTitle)
-                    
-                    Image(systemName: "moon")
-                        .foregroundColor(.white)
-                        .font(.headline)
-                    
-                    Image(systemName: "moon")
-                        .foregroundColor(.white)
-                        .font(.title)
-                    
-                    Image(systemName: "moon")
-                        .foregroundColor(.white)
-                        .font(.title2)
-                    
-                    Image(systemName: "moon")
-                        .foregroundColor(.white)
-                        .font(.title3)
-                }
+                Image(systemName: "moon")
+                    .foregroundColor(.white)
+                    .font(.largeTitle)
+                
+                Image(systemName: "moon")
+                    .foregroundColor(.white)
+                    .font(.title)
+                
+                Image(systemName: "moon")
+                    .foregroundColor(.white)
+                    .font(.title2)
+                
+                Image(systemName: "moon")
+                    .foregroundColor(.white)
+                    .font(.title3)
+                
+                Image(systemName: "moon")
+                    .foregroundColor(.white)
+                    .font(.headline)
                 
                 Image(systemName: "gamecontroller")
                     .resizable()
@@ -52,7 +47,7 @@ struct ImageSwiftUI: View {
                     .cornerRadius(2.0)
                 
                 Spacer()
-            }
+            }.padding(.all)
         }
     }
 }

@@ -26,21 +26,25 @@ struct ToggleButtonSwiftUI: View {
                         .foregroundColor(.white)
                 }.padding()
                 
-                Button(
-                    action: {
-                        print("Button Tapped!")
-                    }, label: {
-                        Text("Add Review")
-                    }
-                )
-                
-                Button(
-                    action: {
-                        print("Play Button Tapped!")
-                    }, label: {
-                        Image(systemName: "play").foregroundColor(.red)
-                    }
-                )
+                HStack {
+                    Button(
+                        action: {
+                            print("Button Tapped!")
+                        }, label: {
+                            Text("Add Review")
+                        }
+                    )
+                    
+                    Spacer()
+                    
+                    Button(
+                        action: {
+                            print("Play Button Tapped!")
+                        }, label: {
+                            Image(systemName: "play").foregroundColor(.red)
+                        }
+                    )
+                }.padding(.all)
                 
                 Spacer()
             }
