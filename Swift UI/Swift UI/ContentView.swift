@@ -11,14 +11,28 @@ import SwiftUI
 //MARK: Basic view structure
 struct ContentView: View {
     var body: some View {
-        ZStack {
-            Color(red: 0.78, green: 0.93, blue: 0.93)
-                .edgesIgnoringSafeArea(.all)
-            
+        NavigationView {
             VStack {
-                TextSwiftUI()
+                Text("Swift UI")
+                    .font(.largeTitle)
+                    .fontWeight(.medium)
+                    .foregroundColor(Color.blue)
+                
+                Spacer()
+                
+                NavigationLink(destination: TextSwiftUI()) {
+                    Text("Text SwiftUI")
+                        .frame(minWidth: 0, maxWidth: 250)
+                        .padding()
+                        .foregroundColor(.white)
+                        .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                        .cornerRadius(40)
+                        .font(.title)
+                }
+                
+                Spacer()
             }
-        }.padding(.all)
+        }
     }
 }
 
