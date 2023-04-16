@@ -1,22 +1,24 @@
 //
-//  ContentView.swift
-//  I Am Rich
+//  IAmRich.swift
+//  Swift UI
 //
-//  Created by Nadir Shah on 01/04/2023.
+//  Created by Nadir Shah on 16/04/2023.
 //
 
 import SwiftUI
 
-struct ContentView: View {
+struct IAmRich: View {
     var body: some View {
         ZStack{
-            Color(.systemTeal)
+            Color(red: 0.18, green: 0.20, blue: 0.21)
                 .edgesIgnoringSafeArea(.all)
+            
             VStack {
-                Text("I Am Rich")
+                Text("I am Rich")
                     .font(.system(size: 40))
                     .fontWeight(.bold)
                     .foregroundColor(Color.white)
+                
                 Image("diamond")
                     .resizable()
                     .aspectRatio(contentMode: .fit)
@@ -26,8 +28,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct IAmRich_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        IAmRich()
     }
 }
