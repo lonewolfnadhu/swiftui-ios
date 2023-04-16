@@ -18,6 +18,7 @@ struct ImageSwiftUI: View {
                     .font(.largeTitle).bold()
                     .foregroundColor(.white)
                 
+                Divider()
                 Spacer()
                 
                 Image(systemName: "moon")

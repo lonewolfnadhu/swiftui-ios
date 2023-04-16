@@ -21,6 +21,8 @@ struct ToggleButtonSwiftUI: View {
                     .font(.largeTitle).bold()
                     .foregroundColor(Color.white)
                 
+                Divider()
+                
                 Toggle(isOn: $isActive) {
                     Text("FaceID")
                         .foregroundColor(.white)

@@ -18,6 +18,8 @@ struct ShapeSwiftUI: View {
                     .font(.largeTitle).bold()
                     .foregroundColor(Color.white)
                 
+                Divider()
+                
                 Rectangle()
                     .fill(.orange)
                     .frame(width: 100, height: 100)
