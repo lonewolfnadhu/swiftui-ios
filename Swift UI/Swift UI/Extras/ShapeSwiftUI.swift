@@ -37,6 +37,8 @@ struct ShapeSwiftUI: View {
                 Ellipse()
                     .fill(.orange)
                     .frame(width: 300, height: 100)
+                
+                Spacer()
             }
         }
     }

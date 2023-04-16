@@ -14,6 +14,8 @@
 		A8D19CF729EC4B7900473ACE /* IAmRich.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CF629EC4B7900473ACE /* IAmRich.swift */; };
 		A8D19CF929EC4BAF00473ACE /* TextSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CF829EC4BAF00473ACE /* TextSwiftUI.swift */; };
 		A8E24C3F29EC58990061A1C0 /* ShapeSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */; };
+		A8E24C4129EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E24C4029EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift */; };
+		A8E24C4329EC5F670061A1C0 /* ImageSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E24C4229EC5F660061A1C0 /* ImageSwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		A8D19CF629EC4B7900473ACE /* IAmRich.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IAmRich.swift; sourceTree = "<group>"; };
 		A8D19CF829EC4BAF00473ACE /* TextSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSwiftUI.swift; sourceTree = "<group>"; };
 		A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeSwiftUI.swift; sourceTree = "<group>"; };
+		A8E24C4029EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleButtonSwiftUI.swift; sourceTree = "<group>"; };
+		A8E24C4229EC5F660061A1C0 /* ImageSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 			children = (
 				A8D19CF829EC4BAF00473ACE /* TextSwiftUI.swift */,
 				A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */,
+				A8E24C4029EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift */,
+				A8E24C4229EC5F660061A1C0 /* ImageSwiftUI.swift */,
 			);
 			path = Extras;
 			sourceTree = "<group>";
@@ -164,9 +170,11 @@
 			files = (
 				A8D19CF929EC4BAF00473ACE /* TextSwiftUI.swift in Sources */,
 				A8D19CEB29EC4AF100473ACE /* ContentView.swift in Sources */,
+				A8E24C4329EC5F670061A1C0 /* ImageSwiftUI.swift in Sources */,
 				A8D19CF729EC4B7900473ACE /* IAmRich.swift in Sources */,
 				A8E24C3F29EC58990061A1C0 /* ShapeSwiftUI.swift in Sources */,
 				A8D19CE929EC4AF100473ACE /* Swift_UIApp.swift in Sources */,
+				A8E24C4129EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
