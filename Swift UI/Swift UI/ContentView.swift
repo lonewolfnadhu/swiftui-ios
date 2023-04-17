@@ -54,7 +54,17 @@ struct ContentView: View {
                             .cornerRadius(40)
                             .font(.title3)
                     }
-                    
+
+                    NavigationLink(destination: H4X0RNews()) {
+                        Text("H4X0R NEWS")
+                            .frame(minWidth: 0, maxWidth: 250)
+                            .padding()
+                            .foregroundColor(.white)
+                            .background(LinearGradient(gradient: Gradient(colors: [Color.red, Color.blue]), startPoint: .leading, endPoint: .trailing))
+                            .cornerRadius(40)
+                            .font(.title3)
+                    }
+
                     Spacer()
                 }
                 
