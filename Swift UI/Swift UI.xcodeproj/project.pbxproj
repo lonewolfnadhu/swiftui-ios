@@ -10,6 +10,8 @@
 		A861FB2129ED27D6001F2777 /* NadirCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2029ED27D6001F2777 /* NadirCard.swift */; };
 		A861FB2529ED2913001F2777 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2429ED2913001F2777 /* InfoView.swift */; };
 		A861FB2B29ED2D1C001F2777 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A861FB2A29ED2D1C001F2777 /* Pacifico-Regular.ttf */; };
+		A861FB2D29ED2F19001F2777 /* Dicee.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2C29ED2F19001F2777 /* Dicee.swift */; };
+		A861FB3029ED3131001F2777 /* DiceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2F29ED3131001F2777 /* DiceView.swift */; };
 		A8D19CE929EC4AF100473ACE /* Swift_UIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CE829EC4AF100473ACE /* Swift_UIApp.swift */; };
 		A8D19CEB29EC4AF100473ACE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CEA29EC4AF100473ACE /* ContentView.swift */; };
 		A8D19CED29EC4AF400473ACE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8D19CEC29EC4AF400473ACE /* Assets.xcassets */; };
@@ -26,6 +28,8 @@
 		A861FB2029ED27D6001F2777 /* NadirCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NadirCard.swift; sourceTree = "<group>"; };
 		A861FB2429ED2913001F2777 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		A861FB2A29ED2D1C001F2777 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
+		A861FB2C29ED2F19001F2777 /* Dicee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dicee.swift; sourceTree = "<group>"; };
+		A861FB2F29ED3131001F2777 /* DiceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceView.swift; sourceTree = "<group>"; };
 		A8D19CE529EC4AF000473ACE /* Swift UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8D19CE829EC4AF100473ACE /* Swift_UIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_UIApp.swift; sourceTree = "<group>"; };
 		A8D19CEA29EC4AF100473ACE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +79,15 @@
 			path = fonts;
 			sourceTree = "<group>";
 		};
+		A861FB2E29ED2F1F001F2777 /* DiceeApp */ = {
+			isa = PBXGroup;
+			children = (
+				A861FB2C29ED2F19001F2777 /* Dicee.swift */,
+				A861FB2F29ED3131001F2777 /* DiceView.swift */,
+			);
+			path = DiceeApp;
+			sourceTree = "<group>";
+		};
 		A8D19CDC29EC4AF000473ACE = {
 			isa = PBXGroup;
 			children = (
@@ -118,6 +131,7 @@
 			children = (
 				A861FB2229ED28B1001F2777 /* IAmRichApp */,
 				A861FB2329ED28BF001F2777 /* NadirCardApp */,
+				A861FB2E29ED2F1F001F2777 /* DiceeApp */,
 			);
 			path = Projects;
 			sourceTree = "<group>";
@@ -206,7 +220,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8D19CF929EC4BAF00473ACE /* TextSwiftUI.swift in Sources */,
+				A861FB3029ED3131001F2777 /* DiceView.swift in Sources */,
 				A8D19CEB29EC4AF100473ACE /* ContentView.swift in Sources */,
+				A861FB2D29ED2F19001F2777 /* Dicee.swift in Sources */,
 				A861FB2129ED27D6001F2777 /* NadirCard.swift in Sources */,
 				A8E24C4329EC5F670061A1C0 /* ImageSwiftUI.swift in Sources */,
 				A8D19CF729EC4B7900473ACE /* IAmRich.swift in Sources */,
