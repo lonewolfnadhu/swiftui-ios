@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct InfoView: View {
+    
     let text: String
     let imageName: String
     

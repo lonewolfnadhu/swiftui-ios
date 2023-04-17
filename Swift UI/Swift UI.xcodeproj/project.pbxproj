@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		A861FB2129ED27D6001F2777 /* NadirCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2029ED27D6001F2777 /* NadirCard.swift */; };
 		A861FB2529ED2913001F2777 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2429ED2913001F2777 /* InfoView.swift */; };
-		A861FB2829ED29E7001F2777 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A861FB2729ED29E6001F2777 /* Pacifico-Regular.ttf */; };
+		A861FB2B29ED2D1C001F2777 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A861FB2A29ED2D1C001F2777 /* Pacifico-Regular.ttf */; };
 		A8D19CE929EC4AF100473ACE /* Swift_UIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CE829EC4AF100473ACE /* Swift_UIApp.swift */; };
 		A8D19CEB29EC4AF100473ACE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CEA29EC4AF100473ACE /* ContentView.swift */; };
 		A8D19CED29EC4AF400473ACE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8D19CEC29EC4AF400473ACE /* Assets.xcassets */; };
@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		A861FB2029ED27D6001F2777 /* NadirCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NadirCard.swift; sourceTree = "<group>"; };
 		A861FB2429ED2913001F2777 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
-		A861FB2729ED29E6001F2777 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Pacifico-Regular.ttf"; path = "../../../Nadir Card App/Nadir Card App/fonts/Pacifico-Regular.ttf"; sourceTree = "<group>"; };
+		A861FB2A29ED2D1C001F2777 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
 		A8D19CE529EC4AF000473ACE /* Swift UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8D19CE829EC4AF100473ACE /* Swift_UIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_UIApp.swift; sourceTree = "<group>"; };
 		A8D19CEA29EC4AF100473ACE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		A861FB2629ED29BD001F2777 /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				A861FB2729ED29E6001F2777 /* Pacifico-Regular.ttf */,
+				A861FB2A29ED2D1C001F2777 /* Pacifico-Regular.ttf */,
 			);
 			path = fonts;
 			sourceTree = "<group>";
@@ -192,7 +192,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A861FB2829ED29E7001F2777 /* Pacifico-Regular.ttf in Resources */,
+				A861FB2B29ED2D1C001F2777 /* Pacifico-Regular.ttf in Resources */,
 				A8D19CF029EC4AF400473ACE /* Preview Assets.xcassets in Resources */,
 				A8D19CED29EC4AF400473ACE /* Assets.xcassets in Resources */,
 			);
