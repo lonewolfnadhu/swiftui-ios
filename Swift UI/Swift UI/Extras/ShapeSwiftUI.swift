@@ -21,7 +21,7 @@ struct ShapeSwiftUI: View {
                 Divider()
                 
                 Rectangle()
-                    .fill(.orange)
+                    .fill(.red)
                     .frame(width: 100, height: 100)
                 
                 Circle()
@@ -29,15 +29,15 @@ struct ShapeSwiftUI: View {
                     .frame(width: 100, height: 100)
                 
                 RoundedRectangle(cornerRadius: 25)
-                    .fill(.orange)
+                    .fill(.green)
                     .frame(width: 300, height: 100)
                 
                 Capsule()
-                    .fill(.orange)
+                    .fill(.blue)
                     .frame(width: 300, height: 100)
                 
                 Ellipse()
-                    .fill(.orange)
+                    .fill(.purple)
                     .frame(width: 300, height: 100)
                 
                 Spacer()

@@ -18,6 +18,7 @@
 		A861FB3929ED4351001F2777 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB3829ED4351001F2777 /* NetworkManager.swift */; };
 		A861FB3B29ED436E001F2777 /* Results.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB3A29ED436E001F2777 /* Results.swift */; };
 		A8661F2F29EF26C200B68E72 /* LazyLoadSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8661F2E29EF26C200B68E72 /* LazyLoadSwiftUI.swift */; };
+		A87D80BF29F0799F00B30666 /* StackViewsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87D80BE29F0799F00B30666 /* StackViewsSwiftUI.swift */; };
 		A8D19CE929EC4AF100473ACE /* Swift_UIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CE829EC4AF100473ACE /* Swift_UIApp.swift */; };
 		A8D19CEB29EC4AF100473ACE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D19CEA29EC4AF100473ACE /* ContentView.swift */; };
 		A8D19CED29EC4AF400473ACE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8D19CEC29EC4AF400473ACE /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 		A861FB3829ED4351001F2777 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		A861FB3A29ED436E001F2777 /* Results.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Results.swift; sourceTree = "<group>"; };
 		A8661F2E29EF26C200B68E72 /* LazyLoadSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyLoadSwiftUI.swift; sourceTree = "<group>"; };
+		A87D80BE29F0799F00B30666 /* StackViewsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewsSwiftUI.swift; sourceTree = "<group>"; };
 		A8D19CE529EC4AF000473ACE /* Swift UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8D19CE829EC4AF100473ACE /* Swift_UIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_UIApp.swift; sourceTree = "<group>"; };
 		A8D19CEA29EC4AF100473ACE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -186,6 +188,7 @@
 				A8E24C4029EC5C8B0061A1C0 /* ToggleButtonSwiftUI.swift */,
 				A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */,
 				A8661F2E29EF26C200B68E72 /* LazyLoadSwiftUI.swift */,
+				A87D80BE29F0799F00B30666 /* StackViewsSwiftUI.swift */,
 			);
 			path = Extras;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				A861FB3529ED4281001F2777 /* DetailView.swift in Sources */,
 				A861FB3929ED4351001F2777 /* NetworkManager.swift in Sources */,
 				A8661F2F29EF26C200B68E72 /* LazyLoadSwiftUI.swift in Sources */,
+				A87D80BF29F0799F00B30666 /* StackViewsSwiftUI.swift in Sources */,
 				A861FB3B29ED436E001F2777 /* Results.swift in Sources */,
 				A8D19CEB29EC4AF100473ACE /* ContentView.swift in Sources */,
 				A861FB2D29ED2F19001F2777 /* Dicee.swift in Sources */,
