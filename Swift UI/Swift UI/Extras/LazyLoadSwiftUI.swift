@@ -32,12 +32,3 @@ struct LazyLoadSwiftUI_Previews: PreviewProvider {
         LazyLoadSwiftUI()
     }
 }
-
-//
-//VStack(alignment: .leading) {
-//    ForEach((1...10).reversed(), id: \.self) {
-//        Text("\($0)…")
-//    }
-//
-//    Text("Ready or not, here I come!")
-//}

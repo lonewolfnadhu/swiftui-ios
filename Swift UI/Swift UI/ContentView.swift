@@ -54,7 +54,7 @@ struct ContentView: View {
                             .cornerRadius(40)
                             .font(.title3)
                     }
-
+                    
                     NavigationLink(destination: H4X0RNews()) {
                         Text("H4X0R NEWS")
                             .frame(minWidth: 0, maxWidth: 250)
@@ -64,7 +64,7 @@ struct ContentView: View {
                             .cornerRadius(40)
                             .font(.title3)
                     }
-
+                    
                     Spacer()
                 }
                 
@@ -122,7 +122,7 @@ struct ContentView: View {
                             .cornerRadius(40)
                             .font(.title3)
                     }
-
+                    
                     NavigationLink(destination: LazyLoadSwiftUI()) {
                         Text("Lazy Load (SwiftUI)")
                             .frame(minWidth: 0, maxWidth: 250)
@@ -132,7 +132,7 @@ struct ContentView: View {
                             .cornerRadius(40)
                             .font(.title3)
                     }
-
+                    
                     Spacer()
                 }
             }
