@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A84EA05629F1E4DB007B2E52 /* GestureSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84EA05529F1E4DB007B2E52 /* GestureSwiftUI.swift */; };
 		A861FB2129ED27D6001F2777 /* NadirCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2029ED27D6001F2777 /* NadirCard.swift */; };
 		A861FB2529ED2913001F2777 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A861FB2429ED2913001F2777 /* InfoView.swift */; };
 		A861FB2B29ED2D1C001F2777 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A861FB2A29ED2D1C001F2777 /* Pacifico-Regular.ttf */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A84EA05529F1E4DB007B2E52 /* GestureSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureSwiftUI.swift; sourceTree = "<group>"; };
 		A861FB2029ED27D6001F2777 /* NadirCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NadirCard.swift; sourceTree = "<group>"; };
 		A861FB2429ED2913001F2777 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		A861FB2A29ED2D1C001F2777 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 				A8E24C3E29EC58990061A1C0 /* ShapeSwiftUI.swift */,
 				A8661F2E29EF26C200B68E72 /* LazyLoadSwiftUI.swift */,
 				A87D80BE29F0799F00B30666 /* StackViewsSwiftUI.swift */,
+				A84EA05529F1E4DB007B2E52 /* GestureSwiftUI.swift */,
 			);
 			path = Extras;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				A87D80BF29F0799F00B30666 /* StackViewsSwiftUI.swift in Sources */,
 				A861FB3B29ED436E001F2777 /* Results.swift in Sources */,
 				A8D19CEB29EC4AF100473ACE /* ContentView.swift in Sources */,
+				A84EA05629F1E4DB007B2E52 /* GestureSwiftUI.swift in Sources */,
 				A861FB2D29ED2F19001F2777 /* Dicee.swift in Sources */,
 				A861FB3729ED42CA001F2777 /* WebView.swift in Sources */,
 				A861FB2129ED27D6001F2777 /* NadirCard.swift in Sources */,
