@@ -11,6 +11,21 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 4. Cross apple platform (single code base for all apple projects like iphone, ipad and so on.)
 5. Mac Catalyst (The app build for iphone or ipad can be run directly into MacOS)
 
+
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+
+
 ### I Am Rich App:
 - How to start your first SwiftUI Project.
 - Work with Xcode preview and the object library to generate SwiftUI code.
@@ -39,32 +54,18 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 - Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your app.
 
 
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-
-
 <!-- Connect | START -->
- [<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 ## Connect with me
 
 
- [<img height="120px" width="120px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/nadir.png"/>](https://github.com/lonewolfnadhu)
+[<img height="120px" width="120px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/nadir.png"/>](https://github.com/lonewolfnadhu)
 
 
- [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
- [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/linkedln.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
- [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
+[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
+[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/linkedln.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
 
 
 Made with ❤️
