@@ -13,19 +13,8 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 5. Mac Catalyst (The app build for iphone or ipad can be run directly into MacOS)
 
 
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
+## Projects
 
 ### I Am Rich App:
 - How to start your first SwiftUI Project.
@@ -33,6 +22,7 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 - Learn to use SwiftUI modifiers to set properties for components.
 - Learn how to arrange elements using SwiftUI Stacks.
 - Learn how to add and size Image components.
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 ### Nadir Card App:
 - Learn how to arrange elements to create complex layouts.
@@ -40,6 +30,7 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 - Learn how to work with RGB Colors and HEX codes.
 - Learn to use SF Symbols in SwiftUI.
 - Learn how to extract Subviews to create reusable SwiftUI components.
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 ### Dicee App:
 - Create an app with functionality.
@@ -47,12 +38,25 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 - Work with spacers and padding.
 - Create Subviews with properties that can change.
 - Learn about how SwiftUI manages State.
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 ### H4XOR App:
 - Learn to work with SwiftUI Lists and the Identifiable Protocol.
 - Use a Navigation View to navigate between the List and a details View.
 - Advanced State Management using the Observer Design Pattern.
 - Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your app.
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+
+
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
+## Extras
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 
 <!-- Connect | START -->
