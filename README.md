@@ -13,7 +13,6 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 5. Mac Catalyst (The app build for iphone or ipad can be run directly into MacOS)
 
 
-[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
 ## Projects
 
 ### #1 I Am Rich App:
@@ -54,7 +53,6 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 
-[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
 ## Extras
 [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
