@@ -1,4 +1,4 @@
-### Swift UI [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/swiftui.svg"/></code>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+# Swift UI [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/swiftui.svg"/></code>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
 This is a modest project that aided me in enhancing my comprehension of SwiftUI on the iOS platform
