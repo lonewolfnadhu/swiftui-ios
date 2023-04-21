@@ -39,18 +39,18 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 - Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your app.
 
 
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
- [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 
 <!-- Connect | START -->
