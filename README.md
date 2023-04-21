@@ -39,8 +39,6 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 - Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your app.
 
 
-https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/dicee-1.png
-
  [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
  [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
  [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
