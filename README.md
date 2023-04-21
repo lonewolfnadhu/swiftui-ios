@@ -1,4 +1,4 @@
-# Swift UI [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/swiftui.svg"/></code>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+### Swift UI [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/swiftui.svg"/></code>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
 This is a modest project that aided me in enhancing my comprehension of SwiftUI on the iOS platform
@@ -39,32 +39,32 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 - Learn to incorporate a UIKit component into SwiftUI by using WebKit to display web pages in your app.
 
 
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/i-am-rich.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/nadir-card.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/dicee-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/dicee-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/h4xor-news-1.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/h4xor-news-2.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/text-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
+ [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/Swift%20UI/Screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 
 <!-- Connect | START -->
-[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
+ [<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 ## Connect with me
 
 
-[<img height="120px" width="120px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/nadir.png"/>](https://github.com/lonewolfnadhu)
+ [<img height="120px" width="120px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/nadir.png"/>](https://github.com/lonewolfnadhu)
 
 
-[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
-[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/linkedln.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
-[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
+ [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
+ [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/linkedln.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
+ [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
 
 
 Made with ❤️
