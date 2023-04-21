@@ -4,6 +4,7 @@ Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 This is a modest project that aided me in enhancing my comprehension of SwiftUI on the iOS platform
 
 
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/assets/github.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
 ## Benefits of Swift UI:
 1. Drag and drop to create code
 2. Easy layouts VHZ Stack (Vertical, Horizontal, and Z-axis Stack)
