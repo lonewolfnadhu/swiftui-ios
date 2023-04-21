@@ -152,8 +152,8 @@
 			isa = PBXGroup;
 			children = (
 				A861FB2629ED29BD001F2777 /* fonts */,
-				A8D19CFA29EC54B500473ACE /* Projects */,
-				A8D19CFB29EC54C200473ACE /* Extras */,
+				A8D19CFA29EC54B500473ACE /* projects */,
+				A8D19CFB29EC54C200473ACE /* extras */,
 				A8D19CE829EC4AF100473ACE /* Swift_UIApp.swift */,
 				A8D19CEA29EC4AF100473ACE /* ContentView.swift */,
 				A8D19CEC29EC4AF400473ACE /* Assets.xcassets */,
@@ -170,7 +170,7 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		A8D19CFA29EC54B500473ACE /* Projects */ = {
+		A8D19CFA29EC54B500473ACE /* projects */ = {
 			isa = PBXGroup;
 			children = (
 				A861FB2229ED28B1001F2777 /* IAmRichApp */,
@@ -178,10 +178,10 @@
 				A861FB2E29ED2F1F001F2777 /* DiceeApp */,
 				A861FB3329ED4188001F2777 /* H4X0RNewsApp */,
 			);
-			path = Projects;
+			path = projects;
 			sourceTree = "<group>";
 		};
-		A8D19CFB29EC54C200473ACE /* Extras */ = {
+		A8D19CFB29EC54C200473ACE /* extras */ = {
 			isa = PBXGroup;
 			children = (
 				A8D19CF829EC4BAF00473ACE /* TextSwiftUI.swift */,
@@ -193,7 +193,7 @@
 				A87D80BE29F0799F00B30666 /* StackViewsSwiftUI.swift */,
 				A84EA05529F1E4DB007B2E52 /* GestureSwiftUI.swift */,
 			);
-			path = Extras;
+			path = extras;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
