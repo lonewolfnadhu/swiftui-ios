@@ -58,7 +58,6 @@ This is a modest project that aided me in enhancing my comprehension of SwiftUI 
 [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/text-field-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/image-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 [<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/toggle-button-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
-[<img width="230" height="500" src="https://github.com/lonewolfnadhu/SwiftUI-iOS/blob/main/screenshots/shape-swift-ui.png">](https://github.com/lonewolfnadhu/SwiftUI-iOS)
 
 
 <!-- Connect | START -->
